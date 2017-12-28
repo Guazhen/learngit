@@ -5,3 +5,4 @@ master
 feature1
 fix issue-101
 bug
+fix issue-101 new
